@@ -1,13 +1,10 @@
 #include <stdio.h>
-
 /**
- * main - this is the main function
- *
- * Return: always o
+ * main - A program that prints a line with puts function
+ * Return: o (Success)
  */
-
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (o);
-}	
+puts("/"Programming is like building a multilingual puzzle);
+return (o);
+}
